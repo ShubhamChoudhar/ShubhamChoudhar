@@ -28,7 +28,7 @@
 <br><br>
 <strong>I am currently looking for full-time positions starting May 2023.</strong>
 <br>
-Email - <a href = "mailto: shubhcy99@gmail.com">shubhcy99@gmail.com</a>
+:email: Email - <a href = "mailto: shubhcy99@gmail.com">shubhcy99@gmail.com</a>
 <br>
 My <a href = "https://www.linkedin.com/in/shubham-choudhary-50aa831a4/">LinkedIn</a>
 <br>

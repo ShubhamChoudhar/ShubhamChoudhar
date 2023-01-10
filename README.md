@@ -11,7 +11,8 @@
   4. Web Data Management<br>
   5. Data Modelling and Techniques<br>
   6. Computer Networks<br>
-  7. Data Mining<br>
+  7. Distributed Systems<br>
+  8. Data Mining<br>
 <h3>About Me</h3>
 <p>
   I am specializing in Software Engineering and Database Systems and interested in Software Development and Full-Stack Development. I am expertise in                                                                     <em><b>Python, HTML, CSS, Javascript, React,</b></em> and <em><b>SQL</b></em>.

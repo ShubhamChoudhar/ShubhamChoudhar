@@ -33,6 +33,6 @@
 <br>
 Email - <a href = "mailto: shubhcy99@gmail.com">shubhcy99@gmail.com</a>
 <br>
-My <a href = "https://www.linkedin.com/in/shubham-choudhary-50aa831a4/">LinkedIn</a>
+My <a href = "https://www.linkedin.com/in/shubhcy99/">LinkedIn</a>
 <br>
 My <a href = "https://drive.google.com/file/d/13UhMsOdC64OfUhgP0jSvKBPKlGSiQXj7/view?usp=sharing">Resume</a>

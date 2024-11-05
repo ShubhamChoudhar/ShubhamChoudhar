@@ -29,7 +29,7 @@
   <br>
   Instagram Link - https://www.instagram.com/photographhherrrworld/
 
-<h4>Certifications</h4>
+<h2>Certifications</h2>
    1. AWS Certified Cloud Practitioner <a href = "https://drive.google.com/file/d/1GaRr4kDS_JEQmSuhYVt4WH4i8Caey-px/view?usp=sharing">Certificate</a>
    2. Foundations of User Experience (UX) Design <a href = "https://www.coursera.org/account/accomplishments/certificate/2Q52JNSFRVXM">Certificate</a>
 <br>

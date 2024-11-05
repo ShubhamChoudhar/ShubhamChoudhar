@@ -22,7 +22,7 @@
     
 <h2>About Me</h2>
 <p>
-  I am specializing in Software Engineering and Database Systems and interested in Software Development and Full-Stack Development. I am expertise in                                                                     <em><b>Python, HTML, CSS, Javascript, React,</b></em> and <em><b>SQL</b></em>.
+ A dedicated and skilled <b>Software</b> and <b>Full Stack Developer</b> with around 3 years of professional experience and a solid academic background. Expertise in developing and implementing robust, scalable applications using a diverse range of technologies including <em><b>React.js, Node.js, Python, Java,</b></em> and <em><b>SpringBoot</b></em>, and various database systems. Proven track record of enhancing system performance, reducing downtime, and improving user experience through meticulous coding, agile methodologies, and efficient project management. Adept at collaborating in remote and dynamic environments to deliver high-quality end-to-end software solutions.
 </p>
 <p>
   In my free time I like to click photos of different things and post them on Instagram. I have an Instagram page for my photography.

@@ -40,7 +40,7 @@
 <br><br>
 <strong>I am currently looking for full-time positions.</strong>
 <br>
-Email - <a href = "mailto: shubhamc0302@gmail.com">shubhcy99@gmail.com</a>
+Email - <a href = "mailto: shubhamc0302@gmail.com">shubhamc0302@gmail.com</a>
 <br>
 My <a href = "https://www.linkedin.com/in/shubhcy99/">LinkedIn</a>
 <br>
